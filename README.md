@@ -28,4 +28,4 @@ This will run the code below
 ```javascript
 console.log("Hello world")
 ```
-The AI modul was provided by [yvesdylane](https://github.com/yvesdylane)
+The AI module was provided by [yvesdylane](https://github.com/yvesdylane)
